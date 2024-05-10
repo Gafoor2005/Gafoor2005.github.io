@@ -1,4 +1,18 @@
-hello world
+### The OG Developer
 
+from the beginning i am curious about how things work. i started exprolring computers, web tech, internet. Now i am exploring new things like Game development, Machine Learning, Android dev
 
-hello check
+## Things i know
+
+**cloud computing** - linux, ports, SSH
+      
+**Networks and Cyber security** - LAN, DNS, DHCP, threats, risks, vulnerability, PII, SPII, NAT, IPv4/v6, TCP
+
+**web** - IP, domain names, cookies, local storage, web sockets, single page apps, 
+
+**android** - Google play, push notifications (FCM), G pay API, G wallet API, 
+
+**firebase** - firebase firestore, authentication, cloud messageing, hosting
+
+<p align="center">MongoDB ExpressJS ReactJS NodeJS NEXT(soon) Linux GitHub Figma Valorant Rust C++ Java Python C C# Dart Flutter Javascript TypeScript(soon) NAT TCP/IP DNS Discord Firebase</p>
+
