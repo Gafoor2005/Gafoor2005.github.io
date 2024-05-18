@@ -1,10 +1,11 @@
 ---
 layout: page
 title:  "wellcome to portfolio"
+permalink: /
 ---
 <div style="display:flex; align-items:end; justify-content: space-between; flex-wrap:wrap">
 
-<h3 style="margin-right:auto;">The OG Developer</h3>
+<h3 id="The OG Developer" style="margin-right:auto;">The OG Developer</h3>
 
 <div style="display:flex; align-items:center;  justify-content: space-between; background: #f3f3f3; gap: .5rem; padding:1.5rem; text-align: center; border-radius:1rem; width: max-content;"
     onclik="()=> window.location.replace('https://discord.com/invite/VB6TczpAWP')"
