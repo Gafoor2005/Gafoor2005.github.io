@@ -1,10 +1,13 @@
-
+---
+layout: page
+title:  "wellcome to portfolio"
+---
 <div style="display:flex; align-items:end; justify-content: space-between; flex-wrap:wrap">
 
-### The OG Developer
+<h3 style="margin-right:auto;">The OG Developer</h3>
 
 <div style="display:flex; align-items:center;  justify-content: space-between; background: #f3f3f3; gap: .5rem; padding:1.5rem; text-align: center; border-radius:1rem; width: max-content;"
-    onclik="window.location.replace('https://discord.com/invite/VB6TczpAWP')"
+    onclik="()=> window.location.replace('https://discord.com/invite/VB6TczpAWP')"
     width="max-content">
 <img src="./discord-mark-black.svg" alt="join discord" height="20rem">
 
@@ -13,6 +16,10 @@
 </div>
 
 from the beginning i am curious about how things work. i started exprolring computers, web tech, internet. Now i am exploring new things like Game development, Machine Learning, Android dev
+
+
+
+  
 
 ## Things i know
 
