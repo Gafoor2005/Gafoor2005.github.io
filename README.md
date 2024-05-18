@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "wellcome to portfolio"
+title:  "The OG Dev"
 permalink: /
 ---
 
