@@ -3,26 +3,21 @@ layout: page
 title:  "wellcome to portfolio"
 permalink: /
 ---
-<div style="display:flex; align-items:end; justify-content: space-between; flex-wrap:wrap">
 
-<h3 id="The OG Developer" style="margin-right:auto;">The OG Developer</h3>
+### The OG Developer
 
-<div style="display:flex; align-items:center;  justify-content: space-between; background: #f3f3f3; gap: .5rem; padding:1.5rem; text-align: center; border-radius:1rem; width: max-content;"
-    onclik="()=> window.location.replace('https://discord.com/invite/VB6TczpAWP')"
+from the beginning i am curious about how things work. i started exprolring computers, web tech, internet. Now i am exploring new things like Game development, Machine Learning, Android dev
+
+<div style="display:flex; align-items:center;  justify-content: space-between; background: #f3f3f3; gap: .5rem; padding:1.5rem; text-align: center; border-radius:1rem; width: max-content; margin-left:auto;"
+    onclick="window.location.replace('https://discord.com/invite/VB6TczpAWP')"
     width="max-content">
+    
 <img src="./discord-mark-black.svg" alt="join discord" height="20rem">
 
 <p style="margin: auto; font-weight:bold; text-wrap:nowrap;">Join Discord</p>
 </div>
-</div>
 
-from the beginning i am curious about how things work. i started exprolring computers, web tech, internet. Now i am exploring new things like Game development, Machine Learning, Android dev
-
-
-
-  
-
-## Things i know
+<!-- ## Things i know
 
 **cloud computing** - linux, ports, SSH
       
@@ -35,4 +30,4 @@ from the beginning i am curious about how things work. i started exprolring comp
 **firebase** - firebase firestore, authentication, cloud messageing, hosting
 
 <p align="center">MongoDB ExpressJS ReactJS NodeJS NEXT(soon) Linux GitHub Figma Valorant Rust C++ Java Python C C# Dart Flutter Javascript TypeScript(soon) NAT TCP/IP DNS Discord Firebase</p>
-
+ -->
