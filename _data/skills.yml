@@ -5,17 +5,20 @@
     - CSS/Sass
     - C
     - C++
-    - Ruby
+    - Dart
+    - Rust
+    - Java
+    - Python
     - PHP
     - SQL
 
 - label: Frameworks / Libraries
   items:
     - React
-    - Ruby On Rails
-    - CodeIgniter
+    - Next JS
+    - Flutter
     - Tailwind
-    - Jekyll
+    # - Jekyll
 
 - label: Tools
   items:
@@ -24,11 +27,12 @@
     - Redis
     - Linux
     - Node
-    - WordPress
+    # - WordPress
 
 - label: Other
   items:
-    - Agile Methodologies
+    # - Agile Methodologies
     - Figma / Prototyping
-    - SEO
+    - Blender
+    # - SEO
     - Documentation
