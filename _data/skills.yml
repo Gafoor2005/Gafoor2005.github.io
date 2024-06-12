@@ -1,0 +1,34 @@
+- label: Languages
+  items:
+    - JavaScript (ES6)
+    - HTML
+    - CSS/Sass
+    - C
+    - C++
+    - Ruby
+    - PHP
+    - SQL
+
+- label: Frameworks / Libraries
+  items:
+    - React
+    - Ruby On Rails
+    - CodeIgniter
+    - Tailwind
+    - Jekyll
+
+- label: Tools
+  items:
+    - Git & Github
+    - Docker
+    - Redis
+    - Linux
+    - Node
+    - WordPress
+
+- label: Other
+  items:
+    - Agile Methodologies
+    - Figma / Prototyping
+    - SEO
+    - Documentation

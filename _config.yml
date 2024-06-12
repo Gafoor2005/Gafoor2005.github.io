@@ -1,0 +1,44 @@
+# Site settings
+name: Mohammad Abdul Gafoor
+title: Gafoor | The Developer
+description: Front-end web developer building engaging digital experiences 
+url: https://gafoor2005.github.io
+baseurl: ''
+email: ftroitero@gmail.com
+cover: https://mrfacundo.github.io/img/og.png
+logo: https://mrfacundo.github.io/img/emojis/technologist.png
+resume: https://mrfacundo.github.io/resume.pdf
+social:
+  - title: email
+    url: mailto:ftroitero@gmail.com
+  - title: github
+    url: https://github.com/MrFacundo
+  - title: linkedin
+    url: https://www.linkedin.com/in/facundo-t/
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap
+
+picture:
+  source: img/
+  output: resized_images/
+  suppress_warnings: true

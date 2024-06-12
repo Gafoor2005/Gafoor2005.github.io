@@ -1,0 +1,53 @@
+- name: Foot11
+  url: https://foot11.com/
+  mockup_mobile: foot11/foot11_m
+  mockup_desktop: foot11/foot11_d
+  mobile_img: foot11/foot11_mobile
+  description:
+    A football news website. Its content is created and stored via a <b>headless CMS</b> and retrieved by a front-end
+    built on a custom <b>PHP</b> framework. Implemented and maintained front-end features and
+    components. <b>WordPress themes</b> and <b>plugin creation</b>.
+  classname: foot11
+
+- name: Starmag
+  url: https://www.starmag.com/
+  mockup_desktop: starmag/starmag_d
+  mockup_none: starmag/starmag
+  mobile_img: starmag/starmag_mobile
+  description:
+    An entertainment news website.I handled <b>SEO</b>, implementing and maintaining front-end
+    features and components and project <b>documentation</b>.
+  classname: starmag
+
+- name: Lisboa em Tango
+  url: https://lisboaemtango.pt/
+  github_url: https://github.com/MrFacundo/landing-page1
+  mockup_mobile: let/let_m
+  mockup_desktop: let/let_d
+  mobile_img: let/let_mobile
+  description:
+    A one-page website designed for a tango dancing school, built with <b>React</b>, <b>Tailwind</b>, and <b>Framer</b>.
+    Research, branding, prototyping, and development. New challenges included implementing
+    <b>animations</b>, <b>multi-language</b> functionality, and email marketing integration.
+  classname: let
+
+- name: Assisted Healing Method
+  url: https://lucent-custard-0e86fa.netlify.app/
+  github_url: https://github.com/MrFacundo/MAE---Gatsby-Portfolio
+  mockup_none: msa/msa_d
+  mobile_img: msa/msa_mobile
+  description:
+    A single-page multilingual portfolio designed built with <b>Gatsby</b> and <b>GSAP</b>. I
+    took care of branding, prototyping, development, SEO.
+  classname: msa
+
+- name: Imaginate Psi
+  url: https://imaginatepsi.com.ar/
+  github_url: https://github.com/MrFacundo/ImaginatePsi
+  mockup_desktop: psi/psi_d
+  mockup_mobile: psi/psi_mobile
+  mobile_img: psi/psi_mobile
+  description:
+    A landing page designed for therapy and mental health companing, built with <b>Jekyll</b>, <b>Gulp</b> and <b>SASS</b>
+    and <b>Javascript</b>.
+  classname: psi
