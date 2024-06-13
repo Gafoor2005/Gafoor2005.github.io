@@ -41,6 +41,16 @@
 #     took care of branding, prototyping, development, SEO.
 #   classname: msa
 
+- name: One
+  url: one.devloopers.me
+  github_url: https://github.com/Gafoor2005/One
+  mockup_none: one/one_d
+  mobile_img: one/one_mobile
+  description:
+    An android app connecting college designed to increase screen time of students built with 
+    <b>Flutter</b> and <b>Firebase</b>. I took care of branding, prototyping, development, and everything.
+  classname: one
+
 # - name: Imaginate Psi
 #   url: https://imaginatepsi.com.ar/
 #   github_url: https://github.com/MrFacundo/ImaginatePsi
