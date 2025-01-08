@@ -1,3 +1,13 @@
+- name: Lab Logger 🎓
+  url: https://github.com/Gafoor2005/Lab_Logger
+  description: A Command line software for lab attendance built on Rust with a beautiful web GUI to print report as PDF.
+  used:
+    - thing: Rust
+    - thing: Tailwind CSS
+    - thing: SQLite
+    - thing: Windows Batch Scripting
+
+
 - name: One 🎓
   url: https://github.com/Gafoor2005/One
   description: An Android app that connects students of our college.
@@ -6,14 +16,6 @@
     - thing: Firebase
     - thing: Microsoft Graph QL
 
-
-# - name: Push Swap 🎓
-#   url: https://github.com/MrFacundo/42_Push_Swap
-#   description: A program that sorts a given list of random numbers with a limited set of instructions, using the lowest possible number of actions.
-#   used:
-#     - thing: C
-#     - thing: Sorting Algorithms
-#     - thing: Complexity
 
 # - name: Philosophers 🎓
 #   url: https://github.com/MrFacundo/42-Philosophers
