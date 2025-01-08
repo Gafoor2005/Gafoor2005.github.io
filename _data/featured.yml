@@ -31,15 +31,15 @@
 #     <b>animations</b>, <b>multi-language</b> functionality, and email marketing integration.
 #   classname: let
 
-# - name: Assisted Healing Method
-#   url: https://lucent-custard-0e86fa.netlify.app/
-#   github_url: https://github.com/MrFacundo/MAE---Gatsby-Portfolio
-#   mockup_none: msa/msa_d
-#   mobile_img: msa/msa_mobile
-#   description:
-#     A single-page multilingual portfolio designed built with <b>Gatsby</b> and <b>GSAP</b>. I
-#     took care of branding, prototyping, development, SEO.
-#   classname: msa
+- name: Silver jubilee website 
+  url: https://gafoor2005.github.io/GEC
+  github_url: https://github.com/Gafoor2005/GEC
+  mockup_none: gec/gec
+  mobile_img: gec/gec
+  description:
+    A single-page silver jubilee celebrations website designed built with <b>vanilla JS</b> and <b>CSS</b>. I
+    took care of branding, prototyping, development.
+  classname: gec
 
 - name: One
   url: https://one.devloopers.me
